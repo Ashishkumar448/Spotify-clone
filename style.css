@@ -418,6 +418,9 @@ a {
     justify-content: space-around;
     padding-top: 30px;
 }
+.rec-music img{
+    vertical-align:middle;
+}
 td{
     justify-content: center;
     align-items: center;
